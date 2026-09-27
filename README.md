@@ -1,1 +1,1 @@
-This repository was created to contain the source code of the Dynamic Time Warping algorithm for proctetion of transmission lines in power systems. 
+This repository was created to contain the source code of the Dynamic Time Warping algorithm for protection of transmission lines in power systems. 
